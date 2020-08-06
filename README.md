@@ -1,4 +1,4 @@
-# nyancat-kicad
+# nyancat
 Nyancat PCB KiCad project 
 
 The footprints of this project had been modified.
